@@ -25,6 +25,4 @@ touch desafio-modulo01.md
 
 touch desafio-modulo02.md
 
-touch desafio-modulo03.md
-
 touch desafio-modulo04.md
