@@ -86,3 +86,35 @@ touch desafio-modulo01-exercicio03-index.html
 \----> the text should be displayed on the console:
 
 true
+
+
+# Question 04
+
+4º exercício
+
+Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
+function experiencia(anos) {
+ // código aqui
+}
+var anosEstudo = 7;
+experiencia(anosEstudo);
+// De 0-1 ano: Iniciante
+// De 1-3 anos: Intermediário
+// De 3-6 anos: Avançado
+// De 7 acima: Jedi Master
+
+# Setup - Question 04
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo01-exercicio04-index.html
+
+# Check and test - Question 04
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo01-exercicio04-index.html
+
+\----> watch the console (In Firefox, open the general menu, select Web Developer >> Console Web)
+
+\----> the text should be displayed on the console:
+
+De 7 acima: Jedi Master
