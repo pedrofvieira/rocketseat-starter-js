@@ -73,3 +73,28 @@ touch desafio-modulo02-exercicio03-index.html
 ● Diego
 ● Gabriel
 ● Lucas
+
+
+# Question 04
+
+4º exercício
+Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
+<input type="text" name="nome">
+<button onClick="adicionar()">Adicionar</button>
+Ao clicar no botão, a função adicionar() deve ser disparada adicionando um novo item a lista de
+nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
+demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
+
+# Setup - Question 04
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo02-exercicio04-index.html
+
+# Check and test - Question 04
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo02-exercicio04-index.html
+
+\----> enter text for the new list item and click the button
+
+
