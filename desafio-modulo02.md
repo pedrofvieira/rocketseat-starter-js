@@ -47,3 +47,29 @@ touch desafio-modulo02-exercicio01-index.html
 \----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo02-exercicio02-index.html
 
 \----> mouse over some square and the color of that square must have changed
+
+# Question 03 
+
+3º exercício
+A partir do seguinte vetor:
+var nomes = ["Diego", "Gabriel", "Lucas"];
+Preencha uma lista (<ul>) no HTML com os itens da seguinte forma:
+● Diego
+● Gabriel
+● Lucas
+
+# Setup - Question 03
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo02-exercicio03-index.html
+
+# Check and test - Question 03
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo02-exercicio03-index.html
+
+\----> the list below should be shown
+
+● Diego
+● Gabriel
+● Lucas
