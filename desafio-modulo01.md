@@ -118,3 +118,42 @@ touch desafio-modulo01-exercicio04-index.html
 \----> the text should be displayed on the console:
 
 De 7 acima: Jedi Master
+
+
+# Question 05
+
+5º exercício
+
+Dado o seguinte vetor de objetos:
+var usuarios = [
+ {
+ nome: "Diego",
+ habilidades: ["Javascript", "ReactJS", "Redux"]
+ },
+ {
+ nome: "Gabriel",
+ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+ }
+];
+Escreva uma função que produza o seguinte resultado:
+O Diego possui as habilidades: Javascript, ReactJS, Redux
+O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
+Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
+com um separador utilize o join.
+
+# Setup - Question 05
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo01-exercicio05-index.html
+
+# Check and test - Question 05
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo01-exercicio05-index.html
+
+\----> watch the console (In Firefox, open the general menu, select Web Developer >> Console Web)
+
+\----> the text should be displayed on the console:
+
+O Diego possui as habilidades: Javascript, ReactJS, Redux 
+O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
