@@ -1,0 +1,17 @@
+# Challenge = Desafio Módulo 1
+
+# Setup - Question 01
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo01-exercicio01-index.html
+
+# Check and test - Question 01
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo01-exercicio01-index.html
+
+\----> watch the console (In Firefox, open the general menu, select Web Developer >> Console Web)
+
+\----> the text should be displayed on the console:
+
+*O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos pinheiros" com nº 1293*

@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Curso Javascript</title>
+    </head>
+    <body>
+
+
+        <script>
+            function userAddress(endereco){
+                var retorno = 'O usuário mora em ' + endereco.cidade + ' / ' + endereco.uf;
+                retorno += ', no bairro ' + endereco.bairro + ', na rua \"' + endereco.rua + '\" com nº ' + endereco.numero;
+                return retorno;
+            }
+
+            var endereco = {
+                rua: "Rua dos pinheiros",
+                numero: 1293,
+                bairro: "Centro",
+                cidade: "São Paulo",
+                uf: "SP"
+            };
+
+            console.log(userAddress(endereco));
+        </script>
+    </body>
+</html>
