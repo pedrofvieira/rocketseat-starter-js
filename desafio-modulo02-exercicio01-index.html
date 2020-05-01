@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curso Javascript</title>
+    </head>
+    <body>
+        <div id="app">
+            <button>Adicionar</button>
+        </div>
+        <script>
+            var divElement = document.querySelector('#app');
+            var buttonElement = document.querySelector('#app button');
+
+            function addRedSquare(){
+                var squareElement = document.createElement('div');
+
+                squareElement.style.width = "100px";
+                squareElement.style.height = "100px";
+                squareElement.style.backgroundColor = "red";
+
+                divElement.appendChild(squareElement);
+            }
+
+            buttonElement.onclick = addRedSquare;
+        </script>
+    </body>
+</html>
