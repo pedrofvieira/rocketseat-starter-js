@@ -66,3 +66,27 @@ touch desafio-modulo04-exercicio02-main.js
 
 \----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo04-exercicio02-index.html
 
+
+# Question 03
+
+3º exercício
+A partir do resultado do exemplo anterior adicione um indicador de carregamento em tela no lugar
+da lista apenas enquanto a requisição estiver acontecendo:
+<li>Carregando...</li>
+Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
+Dica: Quando o usuário não existe, a requisição irá cair no .catch com código de erro 404.
+
+# Setup - Question 03
+
+cd ~/git/rocketseat-starter-js
+
+touch desafio-modulo04-exercicio03-index.html
+
+touch desafio-modulo04-exercicio03-main.js
+
+# Check and test - Question 03
+
+\----> open the file in the browser file:///home/user/git/rocketseat-starter-js/desafio-modulo04-exercicio03-index.html
+
+
+
